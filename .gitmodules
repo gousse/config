@@ -1,3 +1,6 @@
 [submodule "i3"]
 	path = i3
 	url = https://github.com/gousse/i3.git
+[submodule "urxvt"]
+	path = urxvt
+	url = https://github.com/gousse/urxvt.git
