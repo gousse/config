@@ -4,3 +4,9 @@
 [submodule "urxvt"]
 	path = urxvt
 	url = https://github.com/gousse/urxvt.git
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/gousse/scripts.git
+[submodule "ansible"]
+	path = ansible
+	url = https://github.com/gousse/ansible.git
