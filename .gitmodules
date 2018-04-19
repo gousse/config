@@ -10,3 +10,6 @@
 [submodule "ansible"]
 	path = ansible
 	url = https://github.com/gousse/ansible.git
+[submodule "powerline-go"]
+	path = powerline-go
+	url = https://github.com/gousse/powerline-go.git
