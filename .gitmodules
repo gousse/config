@@ -13,3 +13,6 @@
 [submodule "powerline-go"]
 	path = powerline-go
 	url = https://github.com/gousse/powerline-go.git
+[submodule "kubernetes"]
+	path = kubernetes
+	url = https://github.com/gousse/kubernetes.git
