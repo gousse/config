@@ -6,3 +6,5 @@ curl -fsSL https://github.com/FiloSottile/mkcert/releases/download/v1.4.3/mkcert
 
 sudo mv mkcert /usr/local/bin/mkcert
 sudo chmod 755 /usr/local/bin/mkcert
+
+mkcert -install
