@@ -16,3 +16,6 @@
 [submodule "kubernetes"]
 	path = kubernetes
 	url = https://github.com/gousse/kubernetes.git
+[submodule "dnsdist"]
+	path = dnsdist
+	url = https://github.com/gousse/dnsdist.git
